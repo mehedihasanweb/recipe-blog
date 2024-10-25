@@ -1,0 +1,91 @@
+[
+  {
+    "recipe_image": "https://i.ibb.co.com/3RdGT3k/Rectangle-20170-1.png",
+    "recipe_id": 1,
+    "recipe_name": "Grilled Chicken with Basil",
+    "short_description": "A delightful grilled chicken dish with fresh basil and a touch of soy sauce.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "200 g basil leaf",
+      "400 g mushroom"
+    ],
+    "preparing_time": 30,
+    "calories": 320
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/4N1Qz1F/Rectangle-20170.png",
+    "recipe_id": 2,
+    "recipe_name": "Spaghetti Carbonara",
+    "short_description": "Classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
+    "ingredients": [
+      "400 g spaghetti",
+      "150 g pancetta",
+      "2 large eggs",
+      "100 g parmesan",
+      "Black pepper"
+    ],
+    "preparing_time": 20,
+    "calories": 450
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/3RdGT3k/Rectangle-20170-1.png",
+    "recipe_id": 3,
+    "recipe_name": "Vegetable Stir Fry",
+    "short_description": "A quick and healthy stir-fried vegetable medley with soy sauce.",
+    "ingredients": [
+      "300 g broccoli",
+      "200 g bell peppers",
+      "150 g carrots",
+      "100 ml soy sauce",
+      "2 garlic cloves"
+    ],
+    "preparing_time": 15,
+    "calories": 220
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/4N1Qz1F/Rectangle-20170.png",
+    "recipe_id": 4,
+    "recipe_name": "Beef Tacos",
+    "short_description": "Tasty and flavorful beef tacos topped with fresh vegetables and cheese.",
+    "ingredients": [
+      "500 g ground beef",
+      "12 taco shells",
+      "100 g lettuce",
+      "50 g cheddar cheese",
+      "Sour cream"
+    ],
+    "preparing_time": 25,
+    "calories": 550
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/3RdGT3k/Rectangle-20170-1.png",
+    "recipe_id": 5,
+    "recipe_name": "Salmon with Lemon Butter",
+    "short_description": "A simple and delicious salmon dish with a lemon butter sauce.",
+    "ingredients": [
+      "2 salmon fillets",
+      "1 lemon",
+      "50 g butter",
+      "1 garlic clove",
+      "Parsley"
+    ],
+    "preparing_time": 20,
+    "calories": 380
+  },
+  {
+    "recipe_image": "https://i.ibb.co.com/4N1Qz1F/Rectangle-20170.png",
+    "recipe_id": 6,
+    "recipe_name": "Chocolate Chip Cookies",
+    "short_description": "Crispy on the outside, soft on the inside, these cookies are a classic treat.",
+    "ingredients": [
+      "250 g flour",
+      "150 g chocolate chips",
+      "100 g butter",
+      "100 g sugar",
+      "2 eggs"
+    ],
+    "preparing_time": 40,
+    "calories": 180
+  }
+]
